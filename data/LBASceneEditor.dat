@@ -1,0 +1,1445 @@
+--> GameFlags <--
+000: Holomap
+001: Magic ball
+002: FunFrock's saber
+003: Gawleys horn
+004: Tunic
+005: Book of Bù
+006: Sendels's medallion
+007: Flask of clear water
+008: Red card
+009: Blue card
+010: ID card
+011: Mr. Mies' pass
+012: Proto-Pack
+013: Snowboard
+014: Meca Penguin
+015: Gas
+016: Pirate flag
+017: Magic flute
+018: Space guitar
+019: Hair dryer
+020: Ancesteral key
+021: Bottle of sirup
+022: Empty bottle
+023: Ferry ticket
+024: Keypad
+025: Coffee can
+026: Bonuses list
+027: Clover leaf
+028: Quest 1 = Met the cousin of the locksmith
+029: Quest 2 = Twinsen's house destroyed
+030: Quest 3 = Opened funfrocks safe
+031: Quest 4 = Placed statue in the first scene of Bu
+032: Quest 5 = Lock smith not home
+033: Quest 6 = Found clover bosx in the bar
+034: Quest 7 = Got kashes from astromoners chest
+035: Quest 8 = Escaped through cimney
+036: Quest 9 = Found 25 kashes in the chest near the citadel
+037: Quest 10 = Cleaned water tower water
+038: Quest 11 = Read the book of the prophecy
+039: Quest 12 = Aranged crates
+040: Quest 13 = Telepods destroyed
+041: Quest 14 = Turned on the museum alarm
+042: Quest 15 = Gave book to old guy
+043: Quest 16 = Password for the marked stone
+044: Quest 17 = Password for the eclypse stone
+045: Quest 18 = Freed the marked stone
+046: Quest 19 = Freed the marked stone
+047: Quest 20 = Reopened the bar
+048: Quest 21 = ?? found beech side entrance to cave -> 48: !-Twinkel Loin:OK
+049: Quest 22 = Placed statue in first level of Bu
+050: Quest 23 = ?? -> 50: 3-Amphore1 BU2
+051: Quest 24 = Broke seal to the marked stone
+052: Quest 25 = Access to the secret document section of the library, ?? get's zero'ed on port beluga after quest 11
+053: Quest 26 = Talked to forger
+054: Quest 27 = Museum sewer entrance open
+055: Quest 28 = Tunnel in the rabbibunny village open
+056: Quest 29 = Broke seal in the white leaf desert
+057: Quest 30 = Found clover box on the island near peg leg street
+058: Quest 31 = museum has been robbed
+059: Quest 32 = Broke sendell seal in citadel island
+060: Quest 33 = Broke sendell seal in the old burg
+061: Quest 34 = Found cave beneath house
+062: Quest 35 = Killed pharmacist
+063: Quest 36 = Globbered a clone
+064: Quest 37 = Went through the secret passage to the lock smith
+065: Quest 38 = Went outside with locksmith
+066: Quest 39 = Opened gate to upper old burg
+067: Quest 40 = Spoke with the rebel leader
+068: Quest 41 = Bought the catamaran
+069: Quest 42 = Spoke to the rebel in the harbor bunker
+070: Quest 43 = Inventory disabled
+071: Quest 44 = Destroyed the radar on the hamalayi
+072: Quest 45 = First hamalayi scene with the rebel (zeroed on 46)
+073: Quest 46 = Second hamalayi scene with the rebel (zeroed in the next scene)
+074: Quest 47 = Third hamalayi scene with the rebel (zeroed in the next scene)
+075: Quest 48 = New rebel
+076: Quest 49 = Sacret carrot being opened, zeroed after 68
+077: Quest 50 = Tank in fort on the Hamalayi
+078: Quest 51 = Tank in the hamalayi taken
+079: Quest 52 = Destroyed the mutant eggs
+080: Quest 53 = Opened door in the mutant factory (middle)
+081: Quest 54 = Opened door in the mutant factory (lower)
+082: Quest 55 = Talked with chatter lady on the old burg (Julia)
+083: Quest 56 = ?? something with clear water -> 83: ?-eau claire verse
+084: Quest 57 = Sailor wants a drink
+085: Quest 58 = Took the jeep to the rabbibunny village
+086: Quest 59 = Received quest to retreive a hairdryer
+087: Quest 60 = Librarian complaint about the citys tap water
+088: Quest 61 = Freed the rebel leader
+089: Quest 62 = Arrived on the hamalayi with the rebels
+090: Quest 63 = Gave away the space guitar
+091: Quest 64 = Entrance to the secret passage to Dinofly open
+092: Quest 65 = Information about zoe from the sailor
+093: Quest 66 = Opened door with the hidden key in the secret passage to Dinofly
+094: Quest 67 = Took dinofly
+095: Quest 68 = Sacret carrot is open
+096: Quest 69 = Arrived in the middle of white leaf desert, got reset after you freed joe
+097: Quest 70 = Attached pirate flag to ship
+098: Quest 71 = ?? -> 8: 4-parl‚ au faussair
+099: Quest 72 = Info about LeBournes treasure
+100: Quest 73 = Temple of bu, 2nd scene, finished sub room #1
+101: Quest 74 = Temple of bu, 2nd scene, finished sub room #2
+102: Quest 75 = Temple of bu, 2nd scene, finished sub room #3
+103: Quest 76 = Got a ferry ticket
+104: Quest 77 = ?? -> 104: 2-archi a l1t‚rieur
+105: Quest 78 = Freed the rebel leader
+106: Quest 79 = Broke Sendell seal in secret cave 
+107: Quest 80 = Killed the groboclone in the closed bar
+108: Quest 81 = ?? ski piste open -> 108: 9-Vanne pisc ouver
+109: Quest 82 = ?? -> 109: 9-Bette ftres tuee
+110: Quest 83 = Opened 1st gate
+111: Quest 84 = Placed statue in 3rd scene
+112: Quest 85 = ?? -> 112: 9-Porte zoe ouvert
+113: Quest 86 = Saved Joe the elf
+114: Quest 87 = ?? -> 114: 9-Sceau eclater
+115: Quest 88 = Saved the rabbibunny from the mutant
+116: Quest 89 = ?? -> 116: 10-FTRES d‚truite
+117: Quest 90 = Broke seal on Brundle Island
+118: Quest 91 = Saved Raymond the elf
+119: Quest 92 = Took hydroglyder
+120: Quest 93 = Opened the door in funky town
+121: Quest 94 = Opened lock on forgers house
+122: Quest 95 = ?? Used keypad -> 122: 9-DigiCode Pos‚
+123: Quest 96 = ?? -> 123: 11-Funfrok a parl‚
+124: Quest 97 = ?? -> 124: 9-Portail ouvert
+125: Quest 98 = ?? -> 125: 9-Infirmier tu‚
+126: Quest 99 = ?? -> 126: 9-LapiRouge tu‚
+127: Quest 100 = ?? -> 127: 9-Peintre dehors
+128: Quest 101 = ?? -> 128: 2-Lapi chez frŠre
+129: Quest 102 = ?? -> 129: 11-Sceau Sendell ok
+130: Quest 103 = ?? -> 130: 11-Rochers d‚truits
+131: Quest 104 = ?? -> 131: 2-Lapi lib‚r‚
+132: Quest 105 = Clover box in sewer citadel island
+133: Quest 106 = ?? -> 133: 11-Portail ouvert
+134: Quest 107 = ?? -> 134: 10-Lapi chef sorti
+135: Quest 108 = ?? -> 135: 10-Lapi a creus‚
+136: Quest 109 = ?? -> 136: 10-char&gardes tu‚s
+137: Quest 110 = ?? -> 137: 11-Funfrock tomb‚
+138: Quest 111 = Took the boat to the white leaf desert
+139: Quest 112 = ?? -> 139: 11-FunFrock tu‚
+140: Quest 113 = ?? -> 140: 6-Kroptman parti
+141: Quest 114 = Opened clear water lake
+142: Quest 115 = Spoke with the old man in thw white leaf desert
+143: Quest 116 = Information about LeBourne from sailor (to speak with the Old Brug shop keeper)
+144: Quest 117 = Activated secret grobo statue
+145: Quest 118 = Found 150 kashes in the secret area of the old burg
+146: Quest 119 = ?? -> 146: 11-Zoe a parl‚
+147: Quest 120 = Opened gate to the shuttle
+148: Quest 121 = ?? -> 148: Seb en a une petite
+149: Quest 122 = Found dinofly
+150: Quest 123 = ?? -> 150: verser o clair run1
+151: Quest 124 = ?? -> 151: verser o clair run2
+152: Quest 125 = Destroyed a mutant
+153: Quest 126 = Destroyed a mutant
+154: Quest 127 = Destroyed a mutant
+155: Quest 128 = Destroyed a mutant
+156: Quest 129 = ?? -> 156: 11-Zoe descendue
+157: Quest 130 = Broke seal of the destroyed house on principal island
+158: Quest 131 = ?? -> 158: 2-Repr‚sentant vu
+159.. 199: unused   
+200: Baffe.fla -> Hit
+201: Baffe2.fla -> Hit, band-aid
+202: Baffe3.fla -> Hit, black eye
+203: Bateau.fla -> Ferry #1 
+204: TempleBu.fla -> Temple of Bu
+205: Flute2.fla -> White Leaf Desert, flute
+206: Navette.fla -> Hamalayi Mountains, chuttle
+207: Neige2.fla -> Hamalayi Mountains, storm
+208: Surf.fla -> Hamalayi Mountains, ski lift
+209: Bateau2.fla -> Ferry #2
+210: Capture.fla -> Fortress, Zoe Clone
+211: Verser.fla -> Fortress, Rune stone (cut from the game)
+212: Verser2.fla -> Fortress, Rune stone
+213: Fortress.fla -> Fortress, explosion
+214: Sendel2.fla ->
+215: Baffe5.fla -> Hit, reject
+216: Explod.fla -> Twinsun explosion (on top of the well)
+217: Glass2.fla -> Clear water lake
+218: Sendel.fla ->
+219: Explod2.fla -> Twinsun explosion
+--> END <--
+--> Chapters <--
+00: Inprisoned
+01: Escape from the citadel
+02: Zoe got captured
+03: - looking for a young girl
+04: - looking for a "friend"
+05: The legend of Sendell
+06: The book of Bu
+07: Pirate LeBorne
+08: - "good day"
+09: - "good day"
+10: - ?? nothing
+11: - ?? nothing
+12: - ?? nothing
+13: - looking for plans
+14: - still looking for plans
+15: The final showdown - "good day"
+--> END <--
+--> MagicLevels <--
+0: No Magic Levels	
+1: Yellow Ball
+2: Green Ball
+3: Red Ball
+4: Fire Ball
+--> END <--
+--> TwinsenBehaviours <--
+0: Normal 
+1: Athletic
+2: Agressive
+3: Discrete
+--> END <--
+--> Locations <--
+000: Citadel Island, Prison
+001: Citadel Island, outside the citadel
+002: Citadel Island, near the tavern
+003: Citadel Island, near the pharmacy
+004: Citadel Island, near twinsens house
+005: Citadel Island, inside Twinsens house
+006: Citadel Island, Harbor
+007: Citadel Island, Pharmacy
+008: White Leaf Desert, Temple of Bú 1st scene
+009: Hamalayi Mountains, landing place
+010: Principal Island, Library
+011: Principal Island, Harbor
+012: Principal Island, outside the fortress
+013: Principal Island, Lupin Burg
+014: Citadel Island, Tavern
+015: Hamalayi Mountains, Rabbibunny village
+016: Citadel Island, inside a Rabbibunny house
+017: Principal Island, Ruins
+018: Principal Island, outside the library
+019: Principal Island, Militairy camp
+020: Citadel Island, Architects house
+021: Citadel Island, secret chamber in the house
+022: Principal Island, Ticket office
+023: Principal Island, Prison
+024: Principal Island, Port Belooga
+025: Principal Island, Peg Leg Street
+026: Principal Island, Shop
+027: Principal Island, Locksmith
+028: Principal Island, inside a Rabbibunny house
+029: Principal Island, Astronimers House
+030: Principal Island, Tavern
+031: Principal Island, Basement of the Astronomer
+032: Principal Island, Stables
+033: Citadel Island, Cellar of the Tavern
+034: Citadel Island, Sewer of the 1st scene
+035: Citadel Island, Warehouse
+036: White Leaf Desert, outside the Temple of Bú
+037: Principal Island, outside the water tower
+038: Principal Island, inside the water tower
+039: White Leaf Desert, Militairy camp
+040: White Leaf Desert, Temple of Bú 2nd scene
+041: White Leaf Desert, Temple of Bú 3rd scene
+042: Proxima Island, Proxim City
+043: Proxima Island, Museum
+044: Proxima Island, near the Inventors house
+045: Proxima Island, upper rune stone
+046: Proxima Island, lower rune stone
+047: Proxima Island, befor the upper rune stone
+048: Proxima Island, Forgers house
+049: Proxima Island, Prison
+050: Proxima Island, Shop
+051: Proxima Island, Sewer
+052: Principal Island, house at Peg Leg Street
+053: Proxima Island, Grobo house
+054: Proxima Island, Inventors house
+055: Citadel Island, Sewer (secret)
+056: Principal Island, Sewer (secret)
+057: White Leaf Desert, Maze
+058: Principal Island, House with the TV
+059: Rebelion Island, Harbor
+060: Rebelion Island, Rebel camp
+061: Some room (cut-out ?)
+062: Hamalayi Mountains, 1st fighting scene
+063: Hamalayi Mountains, 2nd fighting scene
+064: Hamalayi Mountains, Prison
+065: Hamalayi Mountains, outside the transporter
+066: Hamalayi Mountains, inside the transporter
+067: Hamalayi Mountains, Mutation centre 1st scene
+068: Hamalayi Mountains, Mutation centre 2nd scene
+069: Hamalayi Mountains, 3rd fighting scene
+070: Hamalayi Mountains, Entrance to the prison
+071: Hamalayi Mountains, outside the prison
+072: Hamalayi Mountains, Catamaran dock
+073: Hamalayi Mountains, Bunker near clear water
+074: Tippet Island, Village
+075: Tippet Island, Secret passage scene 2
+076: Tippet Island, near the bar
+077: Tippet Island, Secret passage scene 1
+078: Tippet Island, near the Dino-Fly
+079: Tippet Island, Secret passage scene 3
+080: Tippet Island, Twinsun Cafe
+081: Hamalayi Mountains, Sacret Carrot
+082: Hamalayi Mountains, Backdoor of the prison
+083: Fortress Island, inside the fortress
+084: Fortress Island, outside the forstress
+085: Fortress Island, Secret passage scene 1
+086: Fortress Island, Secret in the fortress
+087: Fortress Island, near Zoes cell
+088: Fortress Island, Swimming pool
+089: Fortress Island, Cloning centre
+090: Fortress Island, Rune stone
+091: Hamalayi Mountains, Behind th sacret carrot
+092: Hamalayi Mountains, Clear water lake
+093: Fortress Island, outside fortress destroyed
+094: Brundle Island, outside the teleportation
+095: Brundle Island, inside the teleportation
+096: Hamalayi Mountains, Ski resort
+097: Brundle Island, Docks
+098: Brundle Island, Secret room
+099: Brundle Island, near the telepods
+100: Fortress Island, Docks
+101: Tippet Island, Shop
+102: Principal Island, house in port Belooga
+103: Brundle Island, Painters house
+104: Citadel Island, Ticket Office
+105: Principal Island, inside the fortress
+106: Polar Island, 2nd scene
+107: Polar Island, 3rd scene
+108: Polar Island, Before the rocky peak
+109: Polar Island, 4th scene
+110: Polar Island, The rocky peak
+111: Polar Island, on the rocky peak
+112: Polar Island, Before the end room
+113: Polar Island, Final Battle
+114: Polar Island, end scene
+115: Polar Island, 1st scene
+116: Citadel Island, end sequence (1)
+117: Citadel Island, end sequence (2)
+118: Citadel Island, Twinsens house destroyed
+119: Credits List Sequence
+--> END <--
+--> Inventory <--
+00: Holomap
+01: Magic ball
+02: FunFrock's saber
+03: Gawleys horn
+04: Tunic
+05: Book of Bù
+06: Sendels's medallion
+07: Flask of clear water
+08: Red card
+09: Blue card
+10: ID card
+11: Mr. Mies' pass
+12: Proto-Pack
+13: Snowboard
+14: Meca Penguin
+15: Gas
+16: Pirate flag
+17: Magic flute
+18: Space guitar
+19: Hair dryer
+20: Ancesteral key
+21: Bottle of sirup
+22: Empty bottle
+23: Ferry ticket
+24: Keypad
+25: Coffee can
+26: Bonuses list
+27: Clover leaf
+--> END <--
+--> Grids <--
+00: Disappearing ceiling piece 1 for 1 
+01: Disappearing ceiling piece 2 for 1 
+02: Disappearing ceiling piece 3 for 1
+03: Disappearing ceiling piece 4 for 1
+04: Disappearing ceiling piece for 6 
+05: Disappearing ceiling piece for 11
+06: Disappearing ceiling piece for 39
+07: Disappearing ceiling piece for 22
+08: Disappearing ceiling piece for 89
+09: Disappearing ceiling piece for 88
+10: Disappearing ceiling piece for 93
+11: Disappearing ceiling piece for 100
+12: Disappearing ceiling piece for 96
+13: Disappearing ceiling piece for 37
+--> END <--
+--> FLA <--
+Baffe.fla
+Baffe2.fla
+Baffe3.fla
+Bateau.fla
+TempleBu.fla
+Flute2.fla
+Navette.fla
+Neige2.fla
+Surf.fla
+Bateau2.fla
+Capture.fla
+Verser.fla
+Verser2.fla
+Fortress.fla
+Sendel2.fla
+Baffe5.fla
+Explod.fla
+Glass2.fla
+Sendel.fla
+Explod2.fla
+Dragon3.fla
+Introd.fla
+LBA.fla
+The_End.fla
+--> END <--
+--> Midis <--
+00: Citadel Island, Prison
+01: 
+02: 
+03: 
+04: 
+05: 
+06: 
+07: 
+08: End scene
+09: 
+10: 
+11: 
+12: 
+13: Principal Island
+14: 
+15: 
+16: 
+17: 
+18:  
+19: 
+20: 
+21: 
+22: 
+23:  
+24: 
+25: 
+26:  
+27: 
+28: Adeline Logo ?
+29:  
+30: 
+31: Adeline Logo
+--> END <--
+--> Samples <--
+000: Twinsen hit
+001: Rabbibunny hit
+002: Quetch grumble
+003: Truck horn
+004: Soldier hit
+005: Rabbibunny clone turn
+006: Puff (long)
+007: Puff (short)
+008: Soldiers marching
+009: Rabbibunny calculate
+010: Dumpster dumps twinsen
+011: Item popup
+012: Puff (very long)
+013: Puff (very long)
+014: Grobo hit
+015: Rabbibunny clone walk
+016: Rabbibunny clone (red) shoot
+017: Skeleton attack
+018: Rabbibunny clone hit
+019: Rabbibunny clone turn
+020: Rabbibunny clone shoot
+021: Stone rolling
+022: Twinsen angry
+023: Throwing ball
+024: Crab hit
+025: Twinsen amazed
+026: Soldier shoot
+027: Walk over stone 1
+028: Walk over stone 2
+029: Teleport
+030: Twinsen hit
+031: Twinsen hits ground
+032: Zoé hit
+033: Kiss
+034: Factory/Citadel area sound
+035: Door open
+036: Area sound
+037: Explode
+038: 
+039: 
+040: 
+041: Big item found / task completed
+042: Skeleton wake up 1
+043: Skeleton wake up 2
+044: Rabbibunny clone (green) shoot
+045: 
+046: Stone rolling 1
+047: Stone rolling 2
+048: Fireball
+049: 
+050: Boobytrap
+051: 
+052: 
+053: 
+054: Skeleton walk 1
+055: Skeleton walk 2
+056: Temple of Bù area sound
+057: Twinsen jump
+058: Shoot
+059: 
+060: Rabbibunny clone hit
+061: 
+062: Survailence system
+063: Clone hit
+064: Rabbibunny clone move
+065: Truck stop
+066: Area sound
+067: 
+068: Quetch hit
+069: 
+070: Hit
+071: Grobo attack
+072: Elevator move
+073: Grobo clone shoot
+074: Heartbeat
+075: Twinsen land on ground
+076: Alarm
+077: Rabbibunny clone move
+078: 
+079: 
+080: Wind
+081: Sewer area sound
+082: Hit
+083: Temple of Bù area sound
+084: Clone hit
+085: Knock on door
+086: 
+087: Key lock
+088: Whistle
+089: Ocean
+090: Ship's horn
+091: Swing 1
+092: Swing 2
+093: Item found
+094: Gate open
+095: Twinsen hit
+096: 
+097: Twinsen die
+098: 
+099: Hit
+100: Grobo alarm
+101: Twinsen in discreet mode 1
+102: Twinsen in discreet mode 2
+103: Zoé gigle
+104: Truck move 1
+105: Truck move 2
+106: Boat motor
+107: Drinking
+108: Truck motor
+109: Truck stop
+110: Digging rabbibunny
+111: Space guitar 1
+112: Space guitar 2
+113: Space guitar 3
+114: Space guitar 4
+115: Crowd unhappy
+116: Crowd happy
+117: Walk over stone 3
+118: Walk over carpet
+119: Walk over metal
+120: Walk over wood
+121: Walk over snow
+122: Walk over stone 4
+123: Walk over grind
+124: Walk through water
+125: Walk over grass
+126: Walk over flower
+127: Walk over stone 5
+128: Walk over grind 2
+129: Walk through water 2
+130: Walk over sand
+131: Walk over metal 2
+132: Walk in cave
+133: Walk over wood 2
+134: Walk over snow 2
+135: Walk over wood 3
+136: Walk over snow 3
+137: Walk through water 3
+138: Walk over grass 2
+139: Walk over flower 2
+140: Walk over stone 6
+141: Walk over carpet 4
+142: Walk through water 4
+143: Proto-pack
+144: Water drain
+145: Area sound
+146: Desert area sound
+147: Fisher
+148: Bells
+149: Swing
+150: Lever toggle
+151: 
+152: Fireballs
+153: Rabbibunny clone calculate 1
+154: Rabbibunny clone calculate 2
+155: Rabbibunny clone calculate 3
+156: Sacred Carrot area sound
+157: Music
+158: Horse galloping 1
+159: Horse galloping 2
+160: Horse
+161: Horse galloping 3
+162: Horse galloping 4
+163: Horse
+164: Horse
+165: Buzzing 1
+166: Motor
+167: Area sound
+168: 
+169: Shoot
+170: Temple of Bù guards
+171: 
+172: 
+173: Explode
+174: Soldier wake-up
+175: Soldier scared
+176: Machine gun 1
+177: Machine gun 2
+178: Explosion
+179: Sewer area sound
+180: Sewer area sound
+181: Water drop in cave 1
+182: Water drop in cave 2
+183: Sphero jump
+184: Sphero hit
+185: Sphero clone hit 1
+186: Sphero clone hit 2
+187: 
+188: Shoot
+189: 
+190: 
+191: 
+192: 
+193: 
+194: Clone walking
+195: Clone sound
+196: Meca-Penguin ticking 1
+197: Meca-Penguin ticking 2
+198: Sword
+199: 
+200: Truck move 1
+201: Truck move 2
+202: Construction 1
+203: Construction area sound 1
+204: Construction area sound 2
+205: Dr. FunFrock grin
+206: Snore
+207: Hiccup
+208: Snowboard 1
+209: Snowboard 2
+210: Snowboard 3
+211: Alarm
+212: Water
+213: Drown 1
+214: Drown 2
+215: Drown 3
+216: Tank hit
+217: Swing
+218: 
+219: Construction 2
+220: Construction 3
+221: Tone 1
+222: Tone 2
+223: Hovercraft
+224: Digging
+225: Tone 3
+226: Tone 4
+227: Buzzing 2
+228: Water flush
+--> END <--
+--> Sprites <--
+000: Tank bullet ???
+001: Magic ball
+002: Green magic ball
+003: Coin
+004: Life heart
+005: Magic
+006: Key
+007: Leaf
+008: Yellow bullet
+009: Red bullet
+010: Groboclone white bullet
+011: Door #1 (house)
+012: Door #2 (house)
+013: Fire magic ball
+014: Plataform #1
+015: Prison door #1 (grid)
+016: Prison door #2 (harmed)
+017: Prison door #3 (with the F word)
+018: Fence #1
+019: Fence #2
+020: Bomb
+021: Bolt bullet 
+022: Fence #3
+023: Fence #4
+024: Door #3 (last scene) ???
+025: Lever
+026: Platform #2 (Prison)
+027: Platform #3
+028: Moving plataform machine
+029: Platform #4 (sewer access)
+030: Barrel
+031: Wooden door #1 (Twinsen house)
+032: Wooden door #2 (Twinsen's house secret scene)
+033: Bottle of Syrup
+034: Passage to the electric thing #1 ???
+035: Metal fence #1
+036: Passage to the electric thing #2 ???
+037: Prison door #4 (Wooden)
+038: FunFrock bust
+039: Cadre
+040: Grey bullet #1 ???
+041: Clover leaf
+042: Green magic ball (same as 3 ??? )
+043: Red magic ball
+044: Transparent yellow magic ball
+045: Library door #1
+046: Library door #2
+047: Package
+048: Ground square #1 (Temple of Bù)
+049: Quetch statue (Temple of Bù)
+050: Wooden door #3 (Temple of Bù)
+051: Wooden door #4 (Temple of Bù)
+052: Wall (false door ???)
+053: Double Lever (Temple of Bù)
+054: Metal fence #2 (Temple of Bù)
+055: Single Lever (Temple of Bù)
+056: Ground square #2 (Temple of Bù)
+057: Frozen mushroom
+058: Door padlock (Forger's house)
+059: Barbed bullet (Temple of Bù)
+060: Runic Stone
+061: Sendell's sign #1 (near Runic Stone)
+062: Sendell's sign #2 (White Leaf Desert)
+063: Sendell's sign #3
+064: Grey bullet #2 ???
+065: Grey bullet #3 ???
+066: Grey bullet #4 ???
+067: Lever without casing
+068: ???
+069: Missile
+070: Red Bullet
+071: Twinsun globe
+072: Z (sleeping guard)
+073: Platform #5
+074: Wall (Sacred Carrot door)
+075: Book #1
+076: Bricked up door
+077: Wall (Library secret passage)
+078: Book #2
+079: Hatchway #1
+080: Hatchway #2
+081: Sendell's sign #4 (visible)
+082: Sendell's sign #5 (hiden)
+083: Metal fence #3
+084: Sendell's sign #6
+085: Lever #1 (up)
+086: Lever #2 (down)
+087: Sendell's sign #7 (painted - hiden)
+088: Sendell's sign #8 (painted - visible)
+089: False frozen ground (Rabbibunny Village)
+090: Talk symbol #1 (right)
+091: Talk symbol #2 (left)
+092: Mushroom
+093: Keypad
+094: ???
+095: Broken lever (clones Factory)
+096: False ground (some platform ???)
+097: Explosion sequence #4
+098: Explosion sequence #5
+099: Explosion sequence #6
+100: Explosion sequence #7
+101: Explosion sequence #1
+102: Explosion sequence #2
+103: Explosion sequence #3
+104: Door #4
+105: FunFrock safe
+106: Twinsen & Zoé statue (covered)
+107: Door #5
+108: Platform with Sendell's sign
+109: Transparent green magic ball
+110: Transparent red magic ball
+111: Some sequence #1 
+112: Some sequence #2 
+113: Some sequence #3 
+114: Some sequence #4 
+115: Some sequence #5
+116: Some sequence #6
+117: Some sequence #7
+--> END <--
+--> Bodies <--
+000: Twinsen: Tunic and Sendell's medallion
+001: Twinsen: Prison uniform
+002: Twinsen: Nurse uniform
+003: Twinsen: Tunic
+004: Twinsen: Tunic, Sendell's medallion and sabre
+005: Twinsen: Tunic, Sendell' medallion and Gawley's horn
+006: Twinsen: Tunic, Sendell's medallion and snowboard
+007: Twinsen: Tunic, Sendell's medallion and protopack
+008: Twinsen: Tunic and protopack
+009: Nurse: With clipboard
+010: Nurse: With clipboard and pistol
+011: Nurse: Baton in holder
+012: Nurse: Baton in hand
+013: Groboclone: Super
+014: Nurse Clothing (very odd)
+015: Meca-penguin
+016: Garbage truck
+017: Grobo: Green vest
+018: Soldier: Normal
+019: Soldier: Desert
+020: Soldier: Himalayan
+021: Rabbibunny: Orange male, yellow shirt and blue shorts
+022: Rabbibunny: Brown male, blue shirt and grey-blue shorts
+023: Rabbibunny: Orange male, yellow shirt and blue shorts, with bottle
+024: Rabbibunny: Orange male, green shirt and brown shorts in tatters
+025: Rabbibunny: Light brown male, yellow shirt and blue shorts in tatters
+026: Rabbibunny: Orange male, white clothes (the painter)
+027: Rabbibunny: Orange male, white clothes with brush (the painter)
+028: Weird motion-seeking tank (green & yellow)
+029: Quetch: Salesman
+030: Groboclone: Yellow
+031: Groboclone: Green
+032: Groboclone: Red
+033: Groboclone: Yellow without mask
+034: Groboclone: Red without ears
+035: Grobo: Yellow clothes and hard hat (bulldozer operator)
+036: Rabbiclone: Yellow
+037: Yellow triangle
+038: Turret from automatic-spray gun thing
+039: Robot with 2 legs
+040: Robot with 2 legs, sphero in cockpit
+041: Tank: Normal
+042: Tank: Himalayan
+043: Tank: Desert
+044: Rabbibunny: Light brown female, orange dress
+045: Rabbibunny: Light brown female, green dress
+046: Rabbibunny: Brown female, yellow dress
+047: Rabbibunny: Brown female, orange dress in tatters
+048: Zoé
+049: Catamaran
+050: Catamaran with pirate flag
+051: Ferryboat
+052: Grobo: Pirate
+053: Rabbibunny: Orange male, blue shirt and white shorts (ferryboat captain)
+054: Fishing boat
+055: Skeleton
+056: Oscillating-blade thing
+057: Small spiked log
+058: Big spiked log
+059: Electro-plant thing
+060: Army boat (driver only)
+061: Army boat (Twinsen & rebels)
+062: Soldier: Normal gunner
+063: Soldier: Desert gunner
+064: Soldier: Himalayan gunner
+065: Radio equipment
+066: Rabbibunny: Orange male, rebel in fatigues and mask
+067: Rabbibunny: Orange male, rebel in fatigues
+068: Sphero: Male rebel in fatigues
+069: Sphero: Male, green clothes
+070: Sphero: Male, yellow clothes
+071: Rabbiclone: Green
+072: Car with Twinsen
+073: Car
+074: Praying mantis
+075: Spheroclone, blue-coloured
+076: Spheroclone, red & yellow
+077: Spheroclone, green & grey
+078: ID card
+079: Gawley's horn
+080: Sendell's medallion
+081: Rabbibunny: Orange oale, white shirt and blue shorts (fisherman)
+082: Motorbike
+083: Horse ridden by Twinsen
+084: Horse
+085: Rabbibunny: Old orange male, with space guitar
+086: Rabbibunny: Old orange Male, with flute
+087: Joe the Elf!
+088: Raymond the Elf
+089: Kestrel
+090: Mutant: Eye
+091: Mutant: Egg
+092: Boulder
+093: Book of Bù
+094: Rabbiclone: Red
+095: Pirate flag
+096: Sewer-snake
+097: Proto-pack
+098: 4-Beamed tank: Normal
+099: 4-Beamed tank: Himalayan
+100: Mutant: Crab
+101: Mutant: Crab without legs
+102: Mutant: Crab, front pincers
+103: Hovercraft with Twinsen
+104: Hovercraft
+105: Rabbibunny: Orange male, hipster
+106: Grobo: Female bartender
+107: Grobo: Male hipster
+108: Mutant: Slime blob
+109: Dino-fly with Twinsen
+110: Dino-fly
+111: Rabbibunny: Guitar player with space guitar
+112: Rabbibunny: Guitar player
+113: Sphero: At drum set
+114: Mutant: Twinsen
+115: Big orange monster-thing
+116: FunFrock
+117: Grobo: Insane flying machine-gun dude
+118: Shark fin, on post
+119: Shark fin
+120: Snowboard
+121: Flag: Red
+122: Flag: Green
+123: Flag: Blue
+124: Flag: Dark blue
+125: Computer
+126: Dump truck
+127: Constuction worker
+128: Constuction worker
+129: Constuction worker
+130: Bulldozer
+131: Sphero: weirdo
+132: Sphero: weirdo
+--> END <--
+--> Animations <--
+000: Twinsen standing (normal mode)
+001: Twinsen walking (normal mode)
+002: Twinsen walking backwards (normal mode)
+003: Twinsen turning right (normal mode)
+004: Twinsen turning left (normal mode)
+005: Twinsen jumping
+006: Twinsen standing (aggressive mode)
+007: Twinsen fighting
+008: Twinsen running
+009: Twinsen falling
+010: Twinsen throwing magic ball
+011: Twinsen getting hit 1
+012: Twinsen getting hit 2
+013: Twinsen getting hit 3
+014: Twinsen landing (short fall)
+015: Twinsen landing (long fall)
+016: Twinsen wowing
+017: Twinsen getting down
+018: Twinsen leaning from half standing, and crawling
+019: Twinsen dying, game over
+020: Twinsen operating something 1
+021: Twinsen climbing up ladder
+022: Twinsen operating something 2
+023: Twinsen jumping in place
+024: Twinsen leaning from standing, and crawling
+025: Twinsen finish climbing up ladder
+026: Twinsen starting climbing up ladder
+027: Twinsen operating something 3
+028: Twinsen blows horn
+029: Twinsen drowning
+030: Twinsen waving
+031: Twinsen dead
+032: Twinsen turning right (athletic mode)
+033: Twinsen jumping backwards
+034: Twinsen drawing sword
+035: Twinsen fights with sword (normal mode)
+036: Twinsen crawling
+037: Twinsen spilling flask
+038: Twinsen standing (athletic mode)
+039: Twinsen walking backwards (normal mode)
+040: Twinsen turning left (athletic mode)
+041: Twinsen dying
+042: Twinsen dead
+043: Twinsen fights with sword (athletic mode)
+044: Twinsen standing (aggressive mode)
+045: Twinsen walking (aggressive mode)
+046: Twinsen walking backwards (aggressive mode)
+047: Twinsen turning left (aggressive mode)
+048: Twinsen turning right (aggressive mode)
+049: Twinsen kicking
+050: Twinsen butting
+051: Twinsen punching
+052: Twinsen fights with sword (agressive mode)
+053: Twinsen standing (discreet mode)
+054: Twinsen walking (discreet mode)
+055: Twinsen walking backwards (discreet mode)
+056: Twinsen turning left (discreet mode)
+057: Twinsen turning right (discreet mode)
+058: Twinsen hiding
+059: Twinsen fights with sword (discreet mode)
+060: Twinsen standing (with Proto-Pack)
+061: Twinsen hovers forwards (with Proto-Pack)
+062: Twinsen turning left (with Proto-Pack)
+063: Twinsen turning right (with Proto-Pack)
+064: Twinsen moving left (with Proto-Pack)
+065: Twinsen moving right (with Proto-Pack)
+066: Twinsen getting hit (with Proto-Pack)
+067: Twinsen falling (with Proto-Pack)
+068: Twinsen landing (short fall) (with Proto-Pack)
+069: Twinsen landing (long fall) (with Proto-Pack)
+070: Twinsen drowning (with Proto-Pack)
+071: Nurse writing
+072: Nurse (weak) getting hit
+073: Nurse (strong) getting hit
+074: Nurse walking
+075: Nurse rebuking, then walking
+076: Nurse pulling out gun
+077: Nurse shooting
+078: Nurse with club standing
+079: Nurse with club running to alarm button
+080: Nurse with club in "move along" movement
+081: Nurse with club alert
+082: Nurse with club pulling out club
+083: Nurse with club getting hit 1
+084: Nurse with club getting hit 2
+085: Nurse with club getting hit 3
+086: Nurse with club fights with club
+087: Nurse with club walking
+088: Nurse with club pressing alarm button
+089: Nurse with club falling 1
+090: Nurse with club falling 2
+091: Nurse with club stamping
+092: Supergro walking
+093: Supergro standing
+094: Supergro shooting
+095: Supergro frozen
+096: Supergro getting hit and moving backwards
+097: Supergro roaring
+098: Supergro falling
+099: Supergro getting hit and moving forwards
+100: Nurse clothing (frozen)
+101: Meca Penguin frozen
+102: Meca Penguin moving and ticking
+103: Garbage truck starting
+104: Garbage truck driving forwars
+105: Garbage truck driving backwards
+106: Garbage truck unloading
+107: Garbage truck stopping
+108: Grobo standing
+109: Grobo walking
+110: Grobo reading
+111: Grobo getting hit (frozen)
+112: Grobo getting hit (animated)
+113: Grobo fighting
+114: Grobo sitting down
+115: Grobo standing up
+116: Grobo sitting
+117: Grobo swinging
+118: Sitting grobo getting hit
+119: Grobo falling
+120: Soldier standing
+121: Soldier walking
+122: Soldier shooting
+123: Soldier alert 1
+124: Soldier alert 2
+125: Soldier saluting
+126: Soldier returns gun
+127: Soldier getting hit
+128: Soldier running
+129: Soldier hitting with gun
+130: Soldier sleeping
+131: Soldier waking up
+132: Scared soldier running
+133: Rabbibunny standing
+134: Rabbibunny walking
+135: Rabbibunny running 1
+136: Rabbibunny saluting
+137: Rabbibunny digging
+138: Rabbibunny hopping
+139: Rabbibunny waiting
+140: Rabbibunny getting hit
+141: Rabbibunny running 2
+142: Rabbibunny waiter pouring
+143: Rabbibunny drinking
+144: Rabbibunny painter standing
+145: Rabbibunny falling
+146: Rabbibunny falling (frozen)
+147: Rabbibunny getting hit (frozen)
+148: Rabbibunny sitting
+149: Rabbibunny fighting
+150: Rabbibunny climbing up ladder
+151: Rabbibunny painting
+152: Rabbibunny waving 1
+153: Rabbibunny waving 2
+154: Rabbibunny clapping
+155: Surveillance device scanning the area
+156: Surveillance device moving
+157: Surveillance device shooting
+158: Surveillance device getting hit 1
+159: Surveillance device getting hit 2
+160: Business quetch standing
+161: Business quetch walking
+162: Business quetch getting hit
+163: Business quetch waving
+164: Groboclone standing 1
+165: Groboclone standing 2
+166: Groboclone walking
+167: Groboclone pulling out club and fights with club
+168: Groboclone fights with club
+169: Groboclone running
+170: Groboclone in "move along" movement
+171: Groboclone frozen
+172: Groboclone getting hit, moving right
+173: Groboclone getting hit, moving left
+174: Groboclone shooting
+175: Groboclone turning left
+176: Groboclone lying (frozen)
+177: Groboclone falling
+178: (corrupted entry)
+179: Green rabbibunny clone scanning the area
+180: Green rabbibunny clone walking
+181: Green rabbibunny clone getting hit 1
+182: Green rabbibunny clone getting hit 2
+183: Green rabbibunny clone shooting
+184: Green rabbibunny clone getting hit 3
+185: Turret frozen 1
+186: Turret frozen 2
+187: Turret frozen 3
+188: Turret frozen 4
+189: Turret shooting
+190: Robot standing
+191: Robot walking 1
+192: Robot walking backwards
+193: Robot jumping
+194: Robot fighting
+195: Robot walking 2
+196: Robot jumping in place 1
+197: Robot jumping in place 2
+198: Robot going up and down
+199: Tank driving
+200: Tank stopping
+201: Tank starting
+202: Tank getting hit
+203: Tank driving backwards
+204: Tank frozen
+205: Tank shootig
+206: Female rabbibunny walking
+207: Female rabbibunny standing
+208: Female rabbibunny walking, looking both sides
+209: Female rabbibunny getting hit
+210: Female rabbibunny flirting
+211: Female rabbibunny talking
+212: Female rabbibunny angry
+213: Female rabbibunny painting
+214: Zoé standing
+215: Zoé walking
+216: Zoé getting hit 1
+217: Zoé getting hit 2
+218: Zoé approaching to Twinsen
+219: Zoé kissing
+220: Zoé waving
+221: Zoé operating something
+222: Zoé kicking 1
+223: Zoé butting
+224: Zoé jumping backwards
+225: Zoé kicking 2
+226: Zoé falling
+227: Zoé landing
+228: Zoé jumping in place
+229: Zoé turning left, walking
+230: Catamaran swinging in place
+231: Catamaran swimming forwards
+232: Catamaran swimming backwards
+233: Catamaran swimming right
+234: Catamaran swimming left
+235: Ferryboat frozen
+236: Ferryboat swimming forwards
+237: Ferryboat swimming backwards
+238: Grobo sailor walking
+239: Grobo sailor getting hit
+240: Grobo sailor standing
+241: Rabbibunny sailor saluting
+242: Boat swimming forwards
+243: Boat swinging in place
+244: Skeleton sleeping (frozen)
+245: Skeleton waking up
+246: Skeleton standing
+247: Skeleton walking agnry
+248: Skeleton fighting with knife
+249: Skeleton kicking
+250: Skeleton getting hit 1
+251: Skeleton getting hit 2
+252: Skeleton getting hit 3
+253: Skeleton getting hit 4
+254: Skeleton walking
+255: Skeleton falling
+256: Skeleton bowing
+257: Spikes frozen
+258: Spikes moving forwards
+259: Spikes moving backwards
+260: Spikes cylinder frozen
+261: Spikes cylinder rolling in place
+262: Spikes cylinder rolling forwards
+263: Electro-plant frozen
+264: Electro-plant expanding
+265: Rebels boat swinging in place
+266: Rebels boat swimming forwards
+267: Rebels boat opening
+268: Rebels boat swimming backwards
+269: Soldier with machine gun observing
+270: Soldier with machine gun getting hit 1
+271: Soldier with machine gun getting hit 2
+272: Soldier with machine gun shooting
+273: Radar working
+274: Rabbinuby rebel standing
+275: Rabbinuby rebel crouched
+276: Rabbinuby rebe lwalking
+277: Rabbinuby rebel standing and shooting
+278: Rabbinuby rebel crouched shooting
+279: Rabbinuby rebel jumping
+280: Rabbinuby rebel moving on
+281: Rabbinuby rebel getting hit
+282: Rabbinuby rebel throwing grenade
+283: Sphero rebel standing
+284: Sphero rebel walking
+285: Sphero rebel getting hit 1
+286: Sphero rebel getting hit 2
+287: Sphero rebel throwing grenade
+288: Sphero rebel shooting
+289: Sphero standing
+290: Sphero walking
+291: Sphero hopping
+292: Sphero jumping backwards
+293: Sphero jumping in place
+294: Sphero getting hit 1
+295: Sphero getting hit 2
+296: Sphero waving
+297: Rabbibunny clone with coputer walking
+298: Rabbibunny clone with coputer scanning the area
+299: Rabbibunny clone with coputer getting hit 1
+300: Rabbibunny clone with coputer getting hit 2
+301: Rabbibunny clone with coputer getting hit (frozen)
+302: Rabbibunny clone with coputer shooting
+303: Car starting
+304: Car driving
+305: Car driving backwards
+306: Car stopping
+307: Carm frozen
+308: Praying mantis standing
+309: Praying mantis walking
+310: Praying mantis getting hit 1
+311: Praying mantis getting hit 2
+312: Praying mantis getting hit 3
+313: Praying mantis fighting 1
+314: Praying mantis fighting 2
+315: Sphero clone standing
+316: Sphero clone walking
+317: Sphero clone getting hit 1
+318: Sphero clone getting hit 2
+319: Sphero clone getting hit 3
+320: Sphero clone shooting
+321: ID (frozen)
+322: Object spinning
+323: Rabbiubnny fisher fishing 1
+324: Rabbibunny fisher fishing 2
+325: Rabbibunny fisher fishing 3
+326: Rabbibunny fisher standing up
+327: Rabbibunny fisher walking
+328: Motorcycle starting
+329: Motorcycle driving
+330: Motorcycle driving backwards
+331: Horse standing
+332: Horse walking
+333: Horse braying
+334: Horse standing wildly
+335: Horse moving right
+336: Horse moving left
+337: Horse running
+338: Horse running and jumping
+339: Horse walking fast
+340: Horse jumping
+341: Horse running wildly
+342: Horse jumping in place
+343: Rabbibunny sitting
+344: Rabbibunny sitting playing guitar 1
+345: Rabbibunny talking
+346: Rabbibunny sitting playing guitar 2
+347: Rabbibunny playing guitar wildly 1
+348: Rabbibunny standing up
+349: Rabbibunny sitting playing guitar 3
+350: Rabbibunny playing flute
+351: Elf standing
+352: Elf walking
+353: Elf getting hit
+354: Bird standing
+355: Bird flying down and forwards
+356: Bird flying up and forwards
+357: Eye creature hopping in place
+358: Eyte creature hopping forwards
+359: Eye creature hopping left and right
+360: Eye creature hopping in circles
+361: Eye creature hopping backwards
+362: Eye creature hop-rolling forwards
+363: Rock frozen
+364: Rock rolling forwards 1
+365: Rock rolling forwards 2
+366: Rock rolling in place
+367: Rock getting thrown
+368: Book of Bù spinning
+369: Red rabbibunny clone spinning head
+370: Red rabbibunny clone walking 1
+371: Red rabbibunny clone getting hit and moving right
+372: Red rabbibunny clone getting hit and moving left
+373: Red rabbibunny clone with power off (frozen)
+374: Red rabbibunny clone walking 2
+375: Red rabbibunny clone shooting Meca Penguin
+376: Red rabbibunny clone getting hit and moving backwards
+377: Red rabbibunny clone shooting
+378: Pirate flag (frozen)
+379: Snake lying
+380: Snake getting out head and stinging
+381: Snake stinging
+382: Snake getting hit 1
+383: Snake getting hit 2
+384: Snake crawling forwards 1
+385: Snake crawling forwards 2
+386: Snake getting hit 3
+387: Snake getting hit 4
+388: Proto-Pack (frozen)
+389: Proto-Pack driving forwards
+390: Big machine gun (frozen)
+391: Big machine gun shooting
+392: Giant crab standing
+393: Giant crab turning left and walking right
+394: Giant crab fighting
+395: Giant crab getting hit and moving backwards
+396: Giant crab getting hit and moving forwards
+397: Giant crab frozen
+398: Hydroglider swinging in place
+399: Hydroglider driving
+400: Groovy rabbibunny standing
+401: Groovy rabbibunny stamping
+402: Groovy rabbibunny walking
+403: Groovy grobo standing
+404: Groovy grobo walking
+405: Groovy grobo getting hit and moving backwards
+406: Groovy grobo running
+407: Goo creature standing 1
+408: Goo creature moving forwards
+409: Goo creature standing 2
+410: Goo creature standing bubbling 1
+411: Goo creature standing bubbling 2
+412: Goo creature fighting
+413: Goo creature moving forwards fast
+414: Dino-Fly standing
+415: Dino-Fly starting to fly
+416: Dino-Fly jumping backwards
+417: Dino-Fly flying
+418: Rabbibunny playing guitar wildly 2
+419: Guitarist rabbibunny walking
+420: Sphero with drums (frozen)
+421: Sphero with drums playing
+422: Twinsen clone lying
+423: Twinsen clone standing
+424: Twinsen clone waking up
+425: Huge orange creature standing
+426: Huge orange creature sniffing
+427: Huge orange creature jumping in place
+428: Huge orange creature bumping forwards
+429: Huge orange creature falling
+430: Huge orange creature rolling forwards
+431: Huge orange creature hopping forwards
+432: Huge orange creature getting hit and moving backwards
+433: Huge orange creature frozen
+434: FunFrock standing
+435: FunFrock walking
+436: FunFrock running
+437: FunFrock fighting with sword
+438: FunFrock jumping 1
+439: FunFrock wakling right
+440: FunFrock wakling left
+441: FunFrock getting hit 1
+442: FunFrock getting hit 2
+443: FunFrock landing
+444: FunFrock jumping 2
+445: FunFrock falling
+446: FunFrock going up and down
+447: FunFrock talking
+448: FunFrock throwing ball
+449: Flying grobo flying in place
+450: Flying grobo flying forwards
+451: Flying grobo flying forwards, shooting
+452: Flying grobo getting hit, moving backwards
+453: Flying grobo getting hit, moving forwards
+454: Fake shark frozen
+455: Fake shark moving forwards
+456: Fake shark moving forwards going up and down
+457: Snowboard (frozen)
+458: Flag waving
+459: Twinsen with snowboard standing
+460: Twinsen with snowboard skiing 1
+461: Twinsen with snowboard skiing 2
+462: Twinsen with snowboard skiing 3
+463: Twinsen with snowboard skiing 4
+464: Twinsen with snowboard skiing 5
+465: Twinsen with snowboard skiing 6
+466: Twinsen with snowboard skiing 7
+467: Twinsen with snowboard skiing 8
+468: Computer working
+469: Computer getting hit
+470: Construction truck driving forwards
+471: Construction truck starting 1
+472: Construction truck driving backwards
+473: Construction truck starting 2
+474: Constuction worker 1 standing
+475: Constuction worker 1 walking
+476: Constuction worker 1 digging
+477: Constuction worker 1 alert
+478: Constuction worker 1 fighting 1
+479: Constuction worker 1 fighting 2
+480: Constuction worker 1 moving left
+481: Constuction worker 1 moving right
+482: Constuction worker 1 getting hit 1
+483: Constuction worker 1 getting hit 2
+484: Constuction worker 1 walking angrily
+485: Constuction worker 2 standing 1
+486: Constuction worker 2 fighting 1
+487: Constuction worker 2 walking
+488: Constuction worker 2 standing 2
+489: Constuction worker 2 fighting 2
+490: Constuction worker 2 getting hit 1
+491: Constuction worker 2 getting hit 2
+492: Constuction worker 2 moving right
+493: Constuction worker 2 moving left
+494: Constuction worker 2 walking angrily
+495: Constuction worker 2 falling
+496: Constuction worker 2 landing
+497: Constuction worker 2 alert
+498: Constuction worker 3 standing
+499: Constuction worker 3 digging
+500: Constuction worker 3 pulling up gun and shooting
+501: Constuction worker 3 shooting
+502: Constuction worker 3 getting hit
+503: Constuction worker 3 alert
+504: Constuction worker 3 falling
+505: Constuction worker 3 landing
+506: Tractor starting
+507: Tracrot driving forwards
+508: Tracrot fighting 1
+509: Tracrot fighting 2
+510: Tracrot working
+511: Tracrot driving backwards
+512: Tracrot frozen
+513: Tracrot jumping in place
+514: Groovy sphero standing
+515: Groovy sphero walking
+--> END <--
