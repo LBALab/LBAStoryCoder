@@ -2,7 +2,7 @@
 To edit `*.ls1` and `*.ls2` files from Little Big Adventure 1 & 2 game engines.
 
 * **Latest Release:** v0.5.0 (2006-Jan-07)
-* **Author:** Alexandre Fontoura @xesf <alexandrefontoura@oninetspeed.pt>
+* **Author:** Alexandre Fontoura @xesf
 * **Original MBN announcement thread:** https://forum.magicball.net/showthread.php?t=8141
 
 ## Description
